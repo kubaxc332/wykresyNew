@@ -1,0 +1,480 @@
+QLineEdit#lineEdit_password{
+    padding : 1px;
+    border-color: #fff;
+border-style: solid;
+border-radius: 10;
+    background-color :  #fff;
+    height : 30px;
+    color:#4da6ff;
+font-weight:bold;
+}
+
+QLineEdit#lineEdit_username{
+    padding : 1px;
+    border-color: #fff;
+border-style: solid;
+border-radius: 10;
+    background-color :  #fff;
+    height : 30px;
+    color:#4da6ff;
+font-weight:bold;
+}
+
+QLabel#label{
+    padding : 2px;
+   color:#fff;
+font-size:14px;
+font-weight:bold;
+}
+
+
+QLabel#label_2{
+    padding : 2px;
+   color:#fff;
+font-size:14px;
+font-weight:bold;
+}
+
+QPushButton#logOn_Btn{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 14px;
+padding-left: 5px;
+padding-right: 5px;
+min-width: 120px;
+max-width: 120px;
+min-height: 25px;
+max-height: 25px;
+margin-right:40px;
+}
+
+
+
+QPushButton#logOn_Btn:hover{
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
+
+QPushButton#barChart_Btn{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 12px;
+min-width: 160px;
+max-width: 160px;
+min-height: 17px;
+max-height: 17px;
+
+}
+
+
+
+QPushButton#barChart_Btn:hover{
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
+
+QPushButton#circleChart_Btn{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 12px;
+min-width: 160px;
+max-width: 160px;
+min-height: 17px;
+max-height: 17px;
+
+}
+
+
+
+QPushButton#circleChart_Btn:hover{
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
+QPushButton#apply_Btn{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 12px;
+min-width: 160px;
+max-width: 160px;
+min-height: 17px;
+max-height: 17px;
+
+}
+
+
+
+QPushButton#apply_Btn:hover{
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
+
+
+QPushButton#lineChart_Btn{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 12px;
+min-width: 160px;
+max-width: 160px;
+min-height: 17px;
+max-height: 17px;
+
+}
+
+
+
+QPushButton#lineChart_Btn:hover{
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
+
+
+QPushButton#showData_Btn{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 14px;
+min-width: 90px;
+max-width: 90px;
+min-height: 25px;
+max-height: 25px;
+
+}
+
+
+
+QPushButton#showData_Btn:hover{
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
+
+
+QPushButton#load_Btn{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 14px;
+min-width: 90px;
+max-width: 90x;
+min-height: 25px;
+max-height: 25px;
+
+}
+
+
+
+QPushButton#load_Btn:hover{
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
+
+
+QPushButton#clear_Btn{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 14px;
+min-width: 90px;
+max-width: 90px;
+min-height: 25px;
+max-height: 25px;
+
+}
+
+
+
+QPushButton#clear_Btn:hover{
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
+
+
+
+#label_pic{
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+}
+#logowanie{
+background-color: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #adebad, stop: 0.1 #6fdc6f, stop: 0.49 #6fdc6f, stop: 0.5 #6fdc6f, stop: 1 #adebad
+);
+}
+
+#groupBox{
+border : 4px solid white;
+    border-radius : 10px;
+background:#4da6ff;
+}
+QMainWindow{
+background-color: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #adebad, stop: 0.1 #6fdc6f, stop: 0.49 #6fdc6f, stop: 0.5 #6fdc6f, stop: 1 #adebad
+);
+}
+
+QDialog#wykres{
+background-color: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #adebad, stop: 0.1 #6fdc6f, stop: 0.49 #6fdc6f, stop: 0.5 #6fdc6f, stop: 1 #adebad
+);
+}
+
+QDialog#wykresliniowy{
+background-color: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #adebad, stop: 0.1 #6fdc6f, stop: 0.49 #6fdc6f, stop: 0.5 #6fdc6f, stop: 1 #adebad
+);
+}
+
+QDialog#wykreskolowy{
+background-color: QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #adebad, stop: 0.1 #6fdc6f, stop: 0.49 #6fdc6f, stop: 0.5 #6fdc6f, stop: 1 #adebad
+);
+}
+
+
+QScrollBar:horizontal {
+    border: 2px solid #4da6ff;
+    background: #fff;
+    height: 15px;
+    margin: 0px 40px 0 0px;
+}
+
+QScrollBar::handle:horizontal {
+    background: #b3f0ff;
+    min-width: 20px;
+}
+
+QScrollBar::add-line:horizontal {
+    background: #32CC99;
+    width: 16px;
+    subcontrol-position: right;
+    subcontrol-origin: margin;
+    border: 2px solid #ccf5ff;
+}
+
+QScrollBar::sub-line:horizontal {
+    background: #32CC99;
+    width: 16px;
+    subcontrol-position: top right;
+    subcontrol-origin: margin;
+    border: 2px solid #ccf5ff;
+    position: absolute;
+    right: 20px;
+}
+
+QScrollBar:left-arrow:horizontal, QScrollBar::right-arrow:horizontal {
+    width: 5px;
+    height: 6px;
+    background: #ccf5ff
+;
+}
+
+QScrollBar::add-page:horizontal, QScrollBar::sub-page:horizontal {
+    background: none;
+}
+ QScrollBar:vertical {
+     border: 2px solid #4da6ff;
+     background: #b3f0ff;
+     width: 15px;
+     margin: 22px 0 22px 0;
+ }
+ QScrollBar::handle:vertical {
+     background: white;
+     min-height: 20px;
+ }
+ QScrollBar::add-line:vertical {
+     border: 2px solid #ccf5ff;
+     background: #32CC99;
+     height: 20px;
+     subcontrol-position: bottom;
+     subcontrol-origin: margin;
+ }
+
+ QScrollBar::sub-line:vertical {
+     border: 2px solid #ccf5ff;
+     background: #32CC99;
+     height: 20px;
+     subcontrol-position: top;
+     subcontrol-origin: margin;
+ }
+ QScrollBar::up-arrow:vertical, QScrollBar::down-arrow:vertical {
+     border: 2px solid #ccf5ff;
+     width: 3px;
+     height: 3px;
+     background: white;
+ }
+
+ QScrollBar::add-page:vertical, QScrollBar::sub-page:vertical {
+     background: none;
+ }
+
+QStatusBar {
+    background: #fff;
+}
+
+QStatusBar::item {
+    border: 2px solid #fff;
+    border-radius: 6px;
+}
+
+QMenuBar::item {
+    spacing: 3px; 
+    padding: 1px 4px;
+    background: transparent;
+    border-radius: 4px;
+}
+
+QCheckBox{
+color:#fff;
+font-size:12px;
+font-weight:bold;
+}
+
+
+QTableWidget {
+    gridline-color: #fff;
+color:#fff;
+    font-size: 10pt;
+background: #4da6ff;
+
+
+}
+
+QTableWidget QTableCornerButton::section {
+    background-color: #fff;
+    border: 1px solid #4da6ff;
+
+}
+
+QTableWidget QHeaderView{
+    background-color: #4da6ff;
+    padding: 4px;
+    border: 1px solid #4da6ff;
+    font-size: 10pt;
+    font-weight:bold;
+    color:#4da6ff
+    
+}
+
+
+QMenuBar {
+    background-color: qlineargradient(x1:0, y1:0, x2:0, y2:1,
+                                      stop:0 lightgreen, stop:1 darkgreen);
+font-weight:bold;
+}
+
+QMenuBar::item {
+    spacing: 3px; 
+    padding: 1px 4px;
+    
+color:#fff;
+
+}
+
+QMenuBar::item:selected { 
+    background: #4da6ff;
+}
+
+QMenuBar::item:pressed {
+    background: #4da6ff;
+}
+QMenuBar::item:hover {
+   
+color:#fff;
+font-weight:bold;
+}
+QStatusBar  {
+    color:#4da6ff;
+font-weight:bold;
+}
+
+
+Qdialog QPushButton{
+color: white;
+background-color:#4da6ff;
+font-weight:bold;
+border-width: 4px;
+border-color: #fff;
+border-style: solid;
+border-radius: 10;
+padding: 3px;
+font-size: 14px;
+min-width: 90px;
+max-width: 90px;
+min-height: 25px;
+max-height: 25px;
+
+}
+
+
+
+Qdialog QPushButton {
+background-color:#fff;
+color: #4da6ff;
+font-weight:bold;
+
+
+}
